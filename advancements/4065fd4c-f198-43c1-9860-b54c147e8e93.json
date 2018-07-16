@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2018-07-15 23:47:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2017-06-07 15:07:56 +0000"
@@ -290,6 +296,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2017-06-07 16:11:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2018-07-15 23:47:17 +0000"
     },
     "done": true
   },
@@ -599,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2018-07-15 23:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2017-06-07 21:30:05 +0000"
@@ -682,6 +700,12 @@
       "polar_bear": "2018-05-20 01:44:21 +0000"
     },
     "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2018-07-15 23:47:39 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
@@ -1172,6 +1196,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2017-07-23 18:51:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2018-07-15 23:47:17 +0000"
     },
     "done": true
   },
