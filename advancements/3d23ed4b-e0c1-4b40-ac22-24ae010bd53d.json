@@ -59,19 +59,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "entered_water": "2018-08-03 00:00:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_stonebrick": {
     "criteria": {
       "has_stonebrick": "2018-08-02 23:29:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
+  "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2018-08-03 00:00:32 +0000"
     },
@@ -80,6 +74,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2018-08-02 23:29:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2018-08-03 00:00:32 +0000"
     },
     "done": true
   },
