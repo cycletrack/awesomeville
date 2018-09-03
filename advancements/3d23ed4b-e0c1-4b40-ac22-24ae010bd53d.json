@@ -683,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2018-09-03 21:24:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
       "has_end_stone": "2018-09-01 21:54:18 +0000"
